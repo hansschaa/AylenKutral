@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class CInventario : MonoBehaviour {
 
+    private List<CElement> elements;
+
 	// Use this for initialization
 	void Start () {
 		
